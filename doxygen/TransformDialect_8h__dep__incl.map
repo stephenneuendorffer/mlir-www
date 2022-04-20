@@ -1,0 +1,5 @@
+<map id="include/mlir/Dialect/Transform/IR/TransformDialect.h" name="include/mlir/Dialect/Transform/IR/TransformDialect.h">
+<area shape="rect" id="node2" href="$InitAllDialects_8h.html" title="include/mlir/InitAllDialects.h" alt="" coords="5,102,212,129"/>
+<area shape="rect" id="node4" href="$TransformDialect_8cpp.html" title="lib/Dialect/Transform\l/IR/TransformDialect.cpp" alt="" coords="237,95,418,136"/>
+<area shape="rect" id="node3" href="$Registration_8cpp.html" title="lib/CAPI/Registration\l/Registration.cpp" alt="" coords="31,184,186,225"/>
+</map>
